@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+REV:20240929T013300
+SOURCE:https://starsdown64.me/contact.vcf
+FN:Noah Rediker
+N:Rediker;Noah
+TEL;VALUE=uri;TYPE=cell:tel:+1-732-829-0386
+EMAIL;PREF=1:WDNINJ4@gmail.com
+EMAIL;TYPE=x-school:nrediker@purdue.edu
+URL:https://starsdown64.me
+END:VCARD
